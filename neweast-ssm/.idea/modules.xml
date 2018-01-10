@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/neweast-dao/neweast-dao.iml" filepath="$PROJECT_DIR$/neweast-dao/neweast-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neweast-domain/neweast-domain.iml" filepath="$PROJECT_DIR$/neweast-domain/neweast-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neweast-service/neweast-service.iml" filepath="$PROJECT_DIR$/neweast-service/neweast-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neweast-ssm.iml" filepath="$PROJECT_DIR$/neweast-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neweast-web/neweast-web.iml" filepath="$PROJECT_DIR$/neweast-web/neweast-web.iml" />
+    </modules>
+  </component>
+</project>

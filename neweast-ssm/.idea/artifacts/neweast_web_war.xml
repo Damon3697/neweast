@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="neweast-web:war">
+    <output-path>$PROJECT_DIR$/neweast-web/target</output-path>
+    <root id="archive" name="neweast-web.war">
+      <element id="artifact" artifact-name="neweast-web:war exploded" />
+    </root>
+  </artifact>
+</component>
